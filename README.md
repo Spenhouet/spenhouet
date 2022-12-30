@@ -9,6 +9,7 @@ My current main focus is on machine learning in the area of medical image segmen
 * 🌍  I'm based in Tübingen, Germany
 * 🚀  I'm currently working on [quantification of MR images at AIRAmed for the treatment of neurodegenerative disease](http://www.airamed.de/en/home)
 * 🧠  I'm learning Svelte, d3 visualization, web3 communication
+* 🌍  Find my personal webpage here: [spenhouet.com](https://spenhouet.com/)
 
 ### Skills
 
